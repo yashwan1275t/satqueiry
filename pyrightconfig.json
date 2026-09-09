@@ -1,0 +1,16 @@
+{
+  "include": [
+    "backend"
+  ],
+  "extraPaths": [
+    "backend"
+  ],
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "reportMissingImports": "none",
+  "reportArgumentType": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportCallIssue": "none",
+  "reportOptionalMemberAccess": "none"
+}

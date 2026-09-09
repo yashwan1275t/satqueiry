@@ -1,0 +1,16 @@
+{
+  "python.analysis.extraPaths": [
+    "./backend"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./backend"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportArgumentType": "none",
+    "reportAttributeAccessIssue": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportCallIssue": "none",
+    "reportOptionalMemberAccess": "none"
+  }
+}
